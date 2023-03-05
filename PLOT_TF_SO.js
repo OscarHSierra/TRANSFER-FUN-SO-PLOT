@@ -31,7 +31,7 @@ function ayuda()
     else
     {
         ayudav=ayudav+1;
-        r2.innerHTML="Este programa muestra la respuesta de un sistema de segundo orden a una entrada escalon unitario, a partir de una funcion de transferencia, esta se debe ingresar como se indica en la parte superior";
+        r2.innerHTML="Este programa muestra la respuesta de un sistema de segundo orden a una entrada escalon unitario, todo esto a partir de una funcion de transferencia, esta se debe ingresar como se indica en la parte superior";
     }
 }
 
